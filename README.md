@@ -5,7 +5,7 @@ Welcome to the a cash settlement project! This project aims to minimise the cash
 ## Technologies Used
 
 - **HTML/CSS/JavaScript**: Frontend development technologies.
-- **Netork visualization**: Visualisation of the cashflow graph from person to person.
+- **Netork visualization**: Drawing surface for graphic design.
 
 ## Intuition
 
@@ -45,7 +45,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Support
 
-If you encounter any issues or have any questions, please feel free to [create an issue](https://github.com/Dodo-sr13/reactjs-chat-app/issues). We're here to help!
+If you encounter any issues or have any questions, please feel free to [create an issue](https://github.com/Dodo-sr13/reactjs-cash-settlement/issues). We're here to help!
 
 ---
 
