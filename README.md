@@ -45,7 +45,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Support
 
-If you encounter any issues or have any questions, please feel free to [create an issue](https://github.com/Dodo-sr13/reactjs-cash-settlement/issues). We're here to help!
+If you encounter any issues or have any questions, please feel free to [create an issue](https://github.com/Dodo-sr13/cash-settlement/issues). We're here to help!
 
 ---
 
